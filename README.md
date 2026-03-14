@@ -150,6 +150,6 @@ A tabela `todo_items` possui a seguinte estrutura:
 ---
 
 ## Desenvolvedores do Caas
-José Pedro Bitetti 
-[Gustavo Netto]([url](https://github.com/gustavonc05))
-[Gabriel Labarca del bianco ]([url](https://github.com/LabasMarketing))
+- José Pedro Bitetti
+- [Gustavo Netto](https://github.com/gustavonc05)
+- [Gabriel Labarca del bianco ](https://github.com/LabasMarketing)
