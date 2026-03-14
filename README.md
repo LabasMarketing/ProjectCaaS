@@ -149,6 +149,7 @@ A tabela `todo_items` possui a seguinte estrutura:
 
 ---
 
-## Licença
-
-MIT
+## Desenvolvedores do Caas
+José Pedro Bitetti 
+[Gustavo Netto]([url](https://github.com/gustavonc05))
+[Gabriel Labarca del bianco ]([url](https://github.com/LabasMarketing))
