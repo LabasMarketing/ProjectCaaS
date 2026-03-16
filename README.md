@@ -39,7 +39,7 @@ ProjectCaaS/
 | Componente | Tecnologia | Porta |
 |------------|-----------|-------|
 | Backend    | Java 21 + Spring Boot 3.4 | 250000 |
-| Frontend   | HTML/CSS/JS + Nginx | 80 |
+| Frontend   | HTML/CSS/JS + Nginx | 8080 |
 | Banco de dados | H2 (em memória) | — |
 
 ---
